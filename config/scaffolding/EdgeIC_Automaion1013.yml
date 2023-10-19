@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeIC_Automaion1013
+  gitServerName: ICAccountTest1005
+  gitUrl: https://github.com/MeghaRaj69/EdgeIC_Automaion1013
+  gitUsername: MeghaRaj69
+  gitToken: edge.scaffolding.EdgeIC_Automaion1013.ICAccountTest1005.gitToken
+  gitBranch: main
